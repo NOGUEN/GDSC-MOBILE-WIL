@@ -92,7 +92,7 @@ class SpacerPractice extends StatelessWidget {
 
 이렇게 코드를 작성하고 실행시키면 `Flex.mainAxisAlignment`를 설정하지 않은 것과 똑같은 결과가 나타난다.
 
-<img src=https://user-images.githubusercontent.com/65299607/200558853-d176a3e0-61e7-4f3e-abcf-eb1e14b97662.png width="200" height="400">
+<img src=https://user-images.githubusercontent.com/65299607/200558798-ebd64ce2-6f6a-44cb-8a80-2797f9367787.png width="200" height="400">
 
 
 ## Properties
@@ -112,6 +112,8 @@ class SpacerPractice extends StatelessWidget {
 ```dart
 Spacer(flex: 2)
 ```
+
+<img src=https://user-images.githubusercontent.com/65299607/200558853-d176a3e0-61e7-4f3e-abcf-eb1e14b97662.png width="200" height="400">
 
 공간이 더 할당된 것을 알 수 있다.
 
