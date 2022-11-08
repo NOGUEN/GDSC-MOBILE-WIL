@@ -59,6 +59,7 @@ class SpacerPractice extends StatelessWidget {
 이렇게 코드를 작성하고 실행시키면 빈 공간을 꽉 채우게 공간이 할당된다.
 
 <img src=https://user-images.githubusercontent.com/65299607/200558798-ebd64ce2-6f6a-44cb-8a80-2797f9367787.png width="200" height="400">
+
 그러면 `Flex.mainAxisAlignment` 를 설정하면 어떻게 될까?
 
 ```dart
