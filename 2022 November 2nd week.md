@@ -58,7 +58,7 @@ class SpacerPractice extends StatelessWidget {
 
 이렇게 코드를 작성하고 실행시키면 빈 공간을 꽉 채우게 공간이 할당된다.
 
-![Simulator Screen Shot - iPhone 14 - 2022-11-08 at 20 43 38](https://user-images.githubusercontent.com/65299607/200558798-ebd64ce2-6f6a-44cb-8a80-2797f9367787.png){: width="200"}
+![Simulator Screen Shot - iPhone 14 - 2022-11-08 at 20 43 38](https://user-images.githubusercontent.com/65299607/200558798-ebd64ce2-6f6a-44cb-8a80-2797f9367787.png){: width="200" height="400"}
 
 그러면 `Flex.mainAxisAlignment`를 설정하면 어떻게 될까?
 
@@ -93,7 +93,7 @@ class SpacerPractice extends StatelessWidget {
 
 이렇게 코드를 작성하고 실행시키면 `Flex.mainAxisAlignment`를 설정하지 않은 것과 똑같은 결과가 나타난다.
 
-![Simulator Screen Shot - iPhone 14 - 2022-11-08 at 20 48 34](https://user-images.githubusercontent.com/65299607/200558853-d176a3e0-61e7-4f3e-abcf-eb1e14b97662.png){: width="200"}
+![Simulator Screen Shot - iPhone 14 - 2022-11-08 at 20 48 34](https://user-images.githubusercontent.com/65299607/200558853-d176a3e0-61e7-4f3e-abcf-eb1e14b97662.png){: width="200" height="400"}
 
 
 ## Properties
